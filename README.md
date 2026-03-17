@@ -6,7 +6,7 @@ A simple 2-player movement test built with Python and Pygame.
 
 Two sprites appear on a 700x500 screen. You can move them independently, but they cannot pass through the gray walls or the screen edges.
 
-⋆.𐙚 ̊ Player 1 Controls (WASD)
+⋆.𐙚 ̊ Player 1 Controls (WASD) 
 
 - Use W to move up
 

@@ -40,7 +40,7 @@ Copy the repo. Then, Place the three assets in the same folder:
 
 - sprite1.png (100x100)
 
-- sprite2.png (100x100)
+- sprite2.png (100x100) 
 
 Run the script:
 

@@ -46,4 +46,4 @@ Run the script:
 
     python catch_up.py
 
-Made with 💖 by @Nasvyni
+Made with 🩷 by @Nasvyni
